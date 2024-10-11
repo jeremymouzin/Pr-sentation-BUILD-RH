@@ -13,11 +13,11 @@ BUILD RH a choisi son nom dans le fait que nous cherchons continuellement à con
 
 Dans le cadre de son développement business, BUILD RH cherche toujours à trouver le meilleur compromis entre ses valeurs et le fait de proposer de super opportunités professionnelles aux candidats. 
 
-A cet effet, BUILD RH s’engage à proposer des opportunités qui répondent aux mieux aux 8 critères suivants : 
+A cet effet, BUILD RH s’engage à proposer des opportunités qui répondent au mieux aux 8 critères suivants : 
 
 **Solvabilité** : des entreprises solvables et/ou qui ont déjà trouvé un market fit. L’idée n’est pas de proposer un CDI et de voir, quelques mois plus tard, des procédures de licenciements et donc des jobs qui ne tiennent que sur quelques mois. BUILD RH va donc demander des éléments concrets concernant le business model, la typologie des clients, et les potentiels investisseurs, s’il y en a.  
 
-**Une bonne culture technique** : des entreprises qui ont des décideurs qui valorisent la technique en suggérant de participer à des conférences et/ou à des meetups internes, en proposant des salaires en phase avec le marché (ou plus que le marché), en mettant en place une culture de la qualité logiciel (“perdre le temps de bien faire pour en gagner ensuite”) et non juste une culture orientée sur les chiffres et le delivery.  
+**Une bonne culture technique** : des entreprises qui ont des décideurs qui valorisent la technique en suggérant de participer à des conférences et/ou à des meetups internes, en proposant des salaires en phase avec le marché (ou plus que le marché), en mettant en place une culture de la qualité logicielle (“perdre le temps de bien faire pour en gagner ensuite”) et non juste une culture orientée sur les chiffres et le delivery.  
 
 **Une cohérence technique** : est-ce que la Direction a une vision technique ? Propose une stack plutôt moderne ou alors en voie de modernisation ? Avec des choix cohérents et plutôt en phase avec les technologies du marché. L’idée n’est pas d’aller sur un projet où les candidats vont s’ennuyer et/ou ne vont pas valoriser leurs compétences techniques. BUILD RH évalue donc le discours des parties prenantes au projet de recrutement, évalue les choix techniques et où l’entreprise souhaite aller. 
 
